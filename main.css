@@ -14,3 +14,6 @@ p{
 	left:74px;
 	color: white;
 }
+a.filtro:hover{
+	opacity:0.5;
+}
