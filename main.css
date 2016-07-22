@@ -1,0 +1,16 @@
+hr{
+    width: 200px;
+    border: 1px solid black;
+    margin: 0px;
+}
+.imagen{
+	display: inline-block;
+	position: relative;
+	margin:10px;
+}
+p{
+	position: absolute;
+	bottom: -9px;
+	left:74px;
+	color: white;
+}
